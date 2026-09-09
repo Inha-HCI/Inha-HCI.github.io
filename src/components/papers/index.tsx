@@ -9,6 +9,32 @@ const Papers = () => {
       <div>
         <h4>International</h4>
         <ul className={PaperStyle.list}>
+          {/* ---------- 2026 ---------- */}
+          <li>
+            <a href="https://ieeexplore.ieee.org/document/11616562">
+              T. S. Hong, D. H. Seo, H. J. Jeong and J. W. Kwon. "On-Device Edge-Gated Attention and FFT for Smartphone-Based Aggressive Driving Detection," <em>IEEE Access</em>, 2026.
+              <AiOutlineLink />
+            </a>
+          </li>
+          <li>
+            <a href="https://ieeexplore.ieee.org/abstract/document/11570120">
+              H. J. Jeong, D. H. Seo, S. H. Lee, S. H. Kim and J. W. Kwon. "A Multimodal Framework for Vibration Signals via Knowledge-Guided Preprocessing (O-XSTFT) and Reconstruction-Contrastive Tokenization (ReCoFormer)," <em>IEEE Access</em>, 2026.
+              <AiOutlineLink />
+            </a>
+          </li>
+          <li>
+            <a href="https://www.mdpi.com/2076-3417/16/11/5333">
+              S. H. Kim, H. J. Jeong, S. i. Shin and J. W. Kwon. "A Non-Autoregressive Spatiotemporal Framework for Offline Full-Matrix Origin–Destination Forecasting in Large-Scale Metro Networks," <em>Applied Sciences</em>, 2026.
+              <AiOutlineLink />
+            </a>
+          </li>
+          <li>
+            <a href="https://ieeexplore.ieee.org/abstract/document/11458819">
+              B. Shukhratov, S. Baydadaev and J. W. Kwon. "Efficient LLM Adaptation to Low-Resource Languages via Cross-Lingual Semantic Anchoring," <em>IEEE Access</em>, 2026.
+              <AiOutlineLink />
+            </a>
+          </li>
+
           {/* ---------- 2025 ---------- */}
           <li>
             <a href="https://doi.org/10.3390/s25144383">
